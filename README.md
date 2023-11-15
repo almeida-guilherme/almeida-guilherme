@@ -1,11 +1,11 @@
-### Hey, I'm Guilherme Henrique!
+### Hey, I'm Guilherme Almeida!
 
 ##
 
 <div align="center">
-  <a href="https://github.com/guihenriquedev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihenriquedev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquedev&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <a href="https://github.com/almeida-guilherme">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeida-guilherme&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeida-guilherme&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   
   ##
