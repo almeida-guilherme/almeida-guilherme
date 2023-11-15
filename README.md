@@ -1,14 +1,20 @@
-[![Masterhead](https://camo.githubusercontent.com/6061a8f97a9f1b555b33fc5586a641723f746de4e26fea5201c45b2aec2439f1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37642f30372f61322f37643037613235353637383936326433306438373137646366356462643236362e676966)]
-<h1 align="center" color="#1589F0"> Hey, I'm Guilherme Almeida! </h1> 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-  
-    🔭 IT RPA Developer / Kaufmann für Digitalisierungsmanagement
-    📖 
-    📫 Contact me by e-mail: guilherme_3507@hotmail.com
-    🗣️ You can speak with me in Portuguese, English and German
-##
+[![Masterhead](./github-header-image.png)]
+<h1 align="center" > Hey, I'm Guilherme Almeida! </h1> 
 
-<div align="center">
+
+<div >
+  <ul align="left" width="600px">
+      <li><p>🔭 IT RPA Developer / Kaufmann für Digitalisierungsmanagement</p></li>
+      <li><p>📖 a</p></li>
+      <li><p>📫 Contact me by e-mail: guilherme_3507@hotmail.com</p></li>
+      <li> <p>🗣️ You can speak with me in Portuguese, English and German</p></li>
+  </ul>
+</div>
+
+
+  ##
+
+<div align="center"><br>
   <a href="https://github.com/almeida-guilherme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeida-guilherme&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeida-guilherme&layout=compact&langs_count=7&theme=great-gatsby"/>
