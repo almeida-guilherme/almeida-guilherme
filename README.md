@@ -5,7 +5,7 @@
 <div >
   <ul align="center" width="600">
       <li>🔭 IT RPA Developer / Kaufmann für Digitalisierungsmanagement</li>
-      <li>🗣️ You can speak with me in Portuguese, English and German></li>
+      <li>🗣️ You can speak with me in Portuguese, English and German</li>
       <li>📖 Front-end developer</li>
   </ul>
 </div>
