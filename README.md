@@ -1,4 +1,3 @@
-[![Masterhead](./github-header-image.png)]
 <h1 align="center" > Hey, I'm Guilherme Almeida! </h1> 
 
 
@@ -6,7 +5,7 @@
   <ul align="center" width="600">
       <li>🔭 IT RPA Developer / Kaufmann für Digitalisierungsmanagement</li>
       <li>🗣️ You can speak with me in Portuguese, English and German</li>
-      <li>📖 Front-end developer</li>
+      <li>📖 RPA developer</li>
   </ul>
 </div>
 
