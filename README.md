@@ -3,10 +3,9 @@
 
 <div >
   <ul align="center" width="600">
-      <li>🧠 RPA developer</li>
-      <li>🎓 Kaufmann für Digitalisierungsmanagement</li>
+      <li>🧠 AI Engineer</li>
+      <li>🎓 Kaufmann für Digitalisierungsmanagement / Computer Science</li>
       <li>🗣️ You can speak with me in Portuguese, English, Spanish and German</li>
-      <li>✍️ Learning about AI Engeeniring</li>
   </ul>
 </div>
 
